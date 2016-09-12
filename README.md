@@ -11,7 +11,7 @@ This app displays "hello" in different languages in a simple list.
 ## Installation
 
 * `$ git clone https://github.com/sprokusk/hello-world.git`
-* `$ cd hellow-world`
+* `$ cd hello-world`
 * `$ open index.html`
 
 ## Technologies
